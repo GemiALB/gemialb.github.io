@@ -1,0 +1,62 @@
+main {
+	background: #485564;
+	color: #FAFAFA;
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+} 
+
+.icons-social i {
+	font-size: 3em;
+	color: #FAFAFA;
+}
+
+.icons-social i {
+	padding: 10px;
+}
+
+.icons-social i:hover {
+	color: #303F9F
+}
+
+html {
+    box-sizing: border-box;
+    font-size: px;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	justify-content: center;
+	padding: 0 30px;
+	text-align: center;
+}
+
+.intro {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 4.75em;
+	font-weight: 600;
+    padding: 10px;
+}
+
+.tagline {
+
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 4,75em;
+    font-weight: 100;
+    padding: 10px;
+    
+}
